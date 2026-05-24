@@ -8,8 +8,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Jagan%20Parab&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20Hackathon%20Finalist&descAlignY=62&descSize=18&descColor=a5f3fc&stroke=58A6FF&strokeWidth=2" width="100%"/>
 
 <!-- ══ TYPING ANIMATION ══════════════════════════════════════════ -->
-
-<!-- ══ TYPING ANIMATION ══════════════════════════════════════════ -->
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&lines=National%20Hackathon%20Finalist%20%7C%20Scaler%20x%20Meta%20x%20HuggingFace%202026;Building%20RAG%20Pipelines%2C%20RL%20Environments%20and%20LLM%20Systems;FastAPI%20%7C%20React%20%7C%20Django%20%7C%20SPFx%20%7C%20PyTorch%20%7C%20LangChain;B.E.%20Computer%20Engineering%20%40%20AITD%2C%20Goa%20-%20Class%20of%202027;FYP%3A%20PredictaCare%20-%20Federated%20Learning%20Healthcare%20AI;Building%20Real%20Things.%20Shipping%20Fast.%20Documenting%20Everything." alt="Typing SVG" />
 
@@ -37,42 +35,82 @@
 
 ---
 
-<!-- ══ ABOUT ME CODE BLOCK ════════════════════════════════════════ -->
+<!-- ══ ABOUT ME ════════════════════════════════════════════════════ -->
 
-<img align="right" alt="Coding GIF" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<div align="center">
 
-### `> whoami`
+## `$ whoami`
+
+</div>
+
+<div align="center">
+<table width="92%">
+<tr>
+<td>
 
 ```python
-class JaganParab:
+# ┌─────────────────────────────────────────────────────────────┐
+# │                    jagan_parab.profile                      │
+# └─────────────────────────────────────────────────────────────┘
 
-    name       = "Jagan Parab"
-    location   = "Goa, India 🇮🇳"
-    education  = "B.E. CSE @ AITD Goa (Class of 2027)"
-
-    roles = [
-        "🏢 Software Dev Intern  →  LeMiCi Technologies, Bangalore",
-        "💼 Jr. Software Dev     →  Demerg Systems India, Goa",
-        "⚡ Software Intern      →  Infipre IT Services, Goa",
-    ]
-
-    achievement = "🏆 National Hackathon Finalist"
-    hackathon   = "Scaler × Meta × Hugging Face × OpenEnv 2026"
-
-    current_work = [
-        "PredictaCare — Federated Learning Healthcare AI (FYP)",
-        "NVIDIA Nemotron Challenge — QLoRA + GRPO on Kaggle",
-        "SPFx Power Platform @ LeMiCi Technologies",
-    ]
-
-    interests = ["AI/ML", "RAG Systems", "RL Environments",
-                 "Full-Stack", "Enterprise SharePoint"]
-
-    fun_fact   = "I also run GoaWaveCab 🚕 — a premium cab service in Goa!"
-    philosophy = "Build real things. Ship fast. Document everything."
+NAME        =  "Jagan Parab"
+LOCATION    =  "Goa, India"
+EDUCATION   =  "B.E. Computer Engineering — AITD, Goa (2027)"
+STATUS      =  "Final Year Student + Active SDE Intern"
 ```
 
-<br clear="right"/>
+</td>
+</tr>
+<tr>
+<td>
+
+```python
+# ── EXPERIENCE ────────────────────────────────────────────────
+
+EXPERIENCE  =  {
+    "current"  : "Software Dev Intern     @  LeMiCi Technologies, Bangalore",
+    "previous" : "Junior Software Dev     @  Demerg Systems India, Goa",
+    "earlier"  : "Software Intern         @  Infipre IT Services, Goa",
+}
+```
+
+</td>
+</tr>
+<tr>
+<td>
+
+```python
+# ── ACHIEVEMENT ───────────────────────────────────────────────
+
+ACHIEVEMENT =  "National Hackathon Finalist"
+COMPETITION =  "Scaler x Meta x Hugging Face x OpenEnv — 2026"
+LIVE_DEMO   =  "huggingface.co/spaces/jaganparab02/finsense_rl"
+```
+
+</td>
+</tr>
+<tr>
+<td>
+
+```python
+# ── CURRENTLY BUILDING ────────────────────────────────────────
+
+CURRENT     =  [
+    "PredictaCare    →  Federated Learning Healthcare AI  (FYP)",
+    "Nemotron Kaggle →  QLoRA Fine-tuning + GRPO-based RL",
+    "LeMiCi          →  SPFx HR Portal + Power Automate Flows",
+]
+
+STACK       =  ["Python", "FastAPI", "React", "Django",
+                "SPFx", "PyTorch", "LangChain", "HuggingFace"]
+
+PHILOSOPHY  =  "Build real things. Ship fast. Document everything."
+```
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -505,7 +543,7 @@ Power Platform            ███████████████░░░
 
 <br/>
 
-<a href="https://www.linkedin.com/in/jagan-parab-1a3426256/">
+<a href="https://linkedin.com/in/jagan-parab">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
@@ -513,7 +551,7 @@ Power Platform            ███████████████░░░
   <img src="https://img.shields.io/badge/🤗_HuggingFace-View_Models-FFD21E?style=for-the-badge"/>
 </a>
 &nbsp;&nbsp;
-<a href="mailto:jaganparab5559@gmail.com">
+<a href="mailto:your-email@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
