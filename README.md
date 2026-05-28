@@ -34,22 +34,3 @@
 </div>
 
 ---
-
-<!-- ══ ABOUT ME ════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## `$ whoami`
-
-</div>
-
-<div align="center">
-<table width="92%">
-<tr>
-<td>
-
-⭐ **If you find my work useful, drop a star — it means a lot!**
-
-<img src="https://img.shields.io/badge/Made_with-❤️_from_Goa,_India-FF4B4B?style=for-the-badge"/>
-
-</div>
